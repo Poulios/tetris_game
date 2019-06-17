@@ -23,4 +23,4 @@ You can Pause, Play and Quit game through *P*, *U*, *Q* keys respectively. Also 
 You can monitor, the current and higher score, and also to see right on the screen the following shape.
 
 
-![Screenshot](doc/pics/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/46890409/59598391-bdb28200-9104-11e9-96ff-724eff1078b6.png)
