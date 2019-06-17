@@ -5,8 +5,8 @@ It is a python 3 implementation for Tetris Game.
 	
 Need python3 and pygame to be installed.
 
-	tetris_game.py is the main application.
-	scores.txt exists to keep high score of the game
+• tetris_game.py is the main application.
+• scores.txt exists to keep high score of the game
 	
 Run tetris_game.py from command line and you will play the game.
 
