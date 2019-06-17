@@ -18,8 +18,8 @@ $ python tetris_game.py
 ### Play rules
 
 Just like classical Tetris Game. 
-You use up key to rotate a shape, left key to move left and right key to move right. Also you can use down key to drop down current shape faster.
-You can Pause, Play and Quit game through P, U, Q keys respectively. Also you can press the Pause, Play, Quit Buttons left on the screen.
+You use *up* key to rotate a shape, *left* key to move left and *right* key to move right. Also you can use *down* key to drop down current shape faster.
+You can Pause, Play and Quit game through *P*, *U*, *Q* keys respectively. Also you can press the Pause, Play, Quit Buttons left on the screen.
 You can monitor, the current and higher score, and also to see right on the screen the following shape.
 
 
