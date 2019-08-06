@@ -25,6 +25,6 @@ You can monitor, the current and higher score, and also to see right on the scre
 
 ![screenshot](https://user-images.githubusercontent.com/46890409/59598391-bdb28200-9104-11e9-96ff-724eff1078b6.png)
 
-More details about some code of the game is found here: https://techwithtim.net/tutorials/game-development-with-python/tetris-pygame/tutorial-3/ .The youtuber 
-#### Tech With Tim: 
+More details about some code of the game is found here: https://techwithtim.net/tutorials/game-development-with-python/tetris-pygame/tutorial-3/ .The youtuber:
+#### Tech With Tim 
 explains with tutorial the most issues.
